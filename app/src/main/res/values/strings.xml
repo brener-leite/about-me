@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Brener Leite</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Brener.
+        \nI’m a Software Developer with three years of experience. In my career, I’ve been working developing new features for great brands of e-commerce, like Electrolux and Ambev. Currently, I’m working at XP Inc. It’s my first time in a company in the financial market, and it’s been such a good experience. I’m learning a lot and I’ve met amazing people.
+        \nI have solid knowledge of front-end development and its most popular technologies: React, JavaScript, Next, Typescript. Besides that, I’m a communicative and collaborative person that is always willing to help.
+        \nReach out my LinkedIn and GitHub profile if you want to know more about me.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
